@@ -38,6 +38,8 @@ Here's the tentative schedule for the year to help you plan ahead:
 
 ## Members
 
+**Naibin Zheng**<mailto:zhengn@appstate.edu>
+
 ### High Country Angular Resources
 
 Find us on Twitter [@ngHighCountry](https://twitter.com/ngHighCountry) | Visit us on [GitHub](https://github.com/ngHighCountry/HighCountryAngular) | This page produced using [ngx-md](https://github.com/dimpu/ngx-md) and deploys [like-a-so](https://github.com/angular/angular-cli/wiki/stories-github-pages)
